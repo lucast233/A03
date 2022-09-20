@@ -67,3 +67,5 @@ Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
     <br>This is the version of a repository or branch that is hosted on a server, most likely GitHub.
  -   **Repository**
     <br>A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files, and stores each file's revision history.
+<br>
+Website used for definitions: https://docs.github.com/en/get-started/quickstart/github-glossary
